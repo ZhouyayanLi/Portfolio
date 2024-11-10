@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! Here, you'll find a collection of projects I have worked on, showcasing my skills and experience in **data science** and **Web and Cloud App & software development**.
+Welcome to my portfolio! Here, you'll find a collection of selected projects I have worked on, showcasing my skills and experience in **data science** and **Web and Cloud App & software development**.
 
 ## Projects
 
