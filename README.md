@@ -31,3 +31,10 @@ Welcome to my portfolio! Here, you'll find a collection of projects I have worke
   - A cloud application on GEE platform.
   - A stand-alone tutorial website for the app.
   - **Two first-authored** peer-reviewed articles ([Link1](https://www.sciencedirect.com/science/article/abs/pii/S1364815224000835), [Link2](https://www.tandfonline.com/doi/abs/10.1080/01431161.2024.2305629)).
+ 
+
+### 4. **Geospatial Visualization** (GitHub Repo: [Link](https://github.com/ZhouyayanLi/Geospatial_visualizations))
+- **Description**: Web-based interactive geospatial visualization cases.
+- **Technologies**: Interactive visualization, Observable, D3.js, HTML/CSS/JavaScript.
+- **My Role**: Created visualizations and designed the portfolio website for those cases.
+- **Deliverable**: A collection of interactive web geospatial visualizations.
