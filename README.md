@@ -33,7 +33,7 @@ Welcome to my portfolio! Here, you'll find a collection of selected projects I h
 - **My Role**: Created 80% of the functional modules, built the entire structure and logic, and led a team of 5 to finalize the UI and improve backend-frontend integration.
 - **Deliverable**: A Web application.
 
-- 
+
 ### 4. **Geospatial Visualization** (GitHub Repo: [Link](https://github.com/ZhouyayanLi/Geospatial_visualizations))
 - **Description**: Web-based interactive geospatial visualization cases.
 - **Technologies**: Interactive visualization, Observable, D3.js, HTML/CSS/JavaScript.
