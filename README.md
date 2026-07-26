@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! Here, you'll find a collection of selected projects I have worked on, showcasing my skills and experience in **geospatial data science** and **natural hazards scientist**.
+Welcome to my portfolio! Here, you'll find a collection of selected projects I have worked on, showcasing my skills and experience in **geospatial data science** and **natural hazards modeling and analytics**.
 
 ## Projects
 
