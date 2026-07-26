@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! Here, you'll find a collection of selected projects I have worked on, showcasing my skills and experience in **geospatial data science** and **natural hazards modeling and analytics**.
+Selected projects in **geospatial data science** and **natural hazards modeling & analytics** — including a [live Google Earth Engine flood-mapping app](https://github.com/ZhouyayanLi/MultiRS_Flood_Mapper_Tutorial) and work behind 10+ first-author publications ([Google Scholar, 500+ citations](https://scholar.google.com/citations?user=u2kybeoAAAAJ&hl=en&oi=ao)).
 
 ## Projects
 
